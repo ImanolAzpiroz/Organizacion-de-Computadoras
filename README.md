@@ -9,5 +9,5 @@
 - [Segunda Parte - El Computador](/Teoria/2%20-%20El%20Computador.md)
 - [Tercera Parte - CPU](/Teoria/3%20-%20CPU.md)
 - [Cuarta Parte](/Teoria/4%20-%20Unidad%20De%20Control.md)
-- [Quinta Parte]()
+- [Quinta Parte](/Teoria/5%20-%20Organizacion%20paralela.md)
 
