@@ -1,4 +1,10 @@
 
+## Compuertas Universales
+Tener varios tipos de compuertas logicas es una desventaja a la hora de producir circuitos, sin embargo se pueden desarrollar los tipos de compuertas logicas usando solo las compuertas NAND y NOR
+
+<img width="722" height="549" alt="Image" src="https://github.com/user-attachments/assets/f4914053-4efd-4353-9a5a-785b33181264" />
+
+
 
 
 ## Circuitos Secuenciales
